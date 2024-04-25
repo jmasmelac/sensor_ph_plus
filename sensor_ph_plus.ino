@@ -1,6 +1,6 @@
 /*
 sensor_ph_plus
-Luko
+jmasmelac
 Sensor de ph que en funcion del ph mueve 2 motores dc
 y se visualisa en una LCD16x2
 */
